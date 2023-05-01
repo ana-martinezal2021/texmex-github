@@ -1,5 +1,5 @@
 ##### Date: 5/05/2023
-##### Authors: [Ana Martínez Albendea](https://github.com/ana-martinezal2021), [Nicolás García Moncho](https://github.com/nicogmon)
+##### Authors: [Ana Martínez Albendea](https://github.com/ana-martinezal2021)
 ##### Goal: carry out the exercise 3 from the systems lab final practice.
 
 ***
